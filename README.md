@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=imrroot&icon=0&color=0)](https://visitcount.itsvg.in)<br/>
+
 ## Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?color=blue&logo=telegram&logoColor=white)](https://t.me/MrRoot_Config)<br/> [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ApzTymepM2) ![Discord](https://img.shields.io/discord/743336293160714401?color=blue&label=Discord&logo=MrRoot&logoColor=white)<br/> [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xmrroot) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/imrroot)<br/> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/imrroot) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCwEmBe4bserRxX7OJYTWAhw?color=red&style=plastic)
 # Languages:
