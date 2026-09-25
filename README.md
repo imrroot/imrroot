@@ -81,7 +81,7 @@ If you like my projects and want to support their development:
 
 <br>
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge\&logo=buy-me-a-coffee\&logoColor=000000)](https://buymeacoffee.com/imrroot)
+
 
 [![Telegram](https://img.shields.io/badge/Contact-Telegram-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/MrRooot)
 
