@@ -6,9 +6,7 @@
 
 Building applications with **Qt / C++**, **C# / .NET**, **Flutter**, and **Dart**.
 
-<br>
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=imrroot\&icon=5\&color=6)](https://visitcount.itsvg.in)
 
 </div>
 
@@ -38,17 +36,13 @@ Building applications with **Qt / C++**, **C# / .NET**, **Flutter**, and **Dart*
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-MrRoot_Config-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/MrRoot_Config)
-[![Discord](https://img.shields.io/badge/Discord-MrRoot-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.gg/ApzTymepM2)
-[![Instagram](https://img.shields.io/badge/Instagram-xmrroot-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/xmrroot)
+[![Telegram](https://img.shields.io/badge/Telegram-RootXClient-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/RootXClient)
 
-[![Twitch](https://img.shields.io/badge/Twitch-imrroot-9146FF?style=for-the-badge\&logo=twitch\&logoColor=white)](https://twitch.tv/imrroot)
-[![YouTube](https://img.shields.io/badge/YouTube-imrroot-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://youtube.com/c/imrroot)
+
+
 
 <br>
 
-![Discord](https://img.shields.io/discord/743336293160714401?style=flat-square\&logo=discord\&logoColor=white\&label=Discord)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCwEmBe4bserRxX7OJYTWAhw?style=flat-square\&logo=youtube\&label=YouTube%20Views)
 
 </div>
 
@@ -82,6 +76,12 @@ Interests      → Networking • VPN Clients • Desktop Applications • UI/UX
 ## ☕ Support My Work
 
 <div align="center">
+
+If you like my projects and want to support their development:
+
+<br>
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge\&logo=buy-me-a-coffee\&logoColor=000000)](https://buymeacoffee.com/imrroot)
 
 [![Telegram](https://img.shields.io/badge/Contact-Telegram-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/MrRooot)
 
